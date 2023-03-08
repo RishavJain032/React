@@ -29,7 +29,7 @@ let heading = React.createElement('div',{style:{
           React.createElement( 
             "li", 
             {}, 
-            React.createElement("p", {}, "Teasting"),
+            React.createElement("p", {}, "Testing"),
           ),
           React.createElement( 
             "li", 
